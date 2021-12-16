@@ -1,0 +1,17 @@
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kdeglobals][General]
+ColorScheme=Arc Dark
+
+[kdeglobals][Icons]
+Theme=arcolinux-candy-beauty
+
+[kcminputrc][Mouse]
+cursorTheme=Bibata-Modern-Ice
+
+[plasmarc][Theme]
+name=Arc-Dark
+
+[kwinrc][org.kde.kdecoration2]
+theme=__aurorae__svg__Arc-Dark
